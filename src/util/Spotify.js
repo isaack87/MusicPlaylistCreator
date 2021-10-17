@@ -1,4 +1,4 @@
-import config from '../config.js'
+import config from './config.js'
 
 const clientId = config.TOKEN;
 const redirectUri = 'http://localhost:3000/';
